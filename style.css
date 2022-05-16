@@ -1,0 +1,59 @@
+p1 {
+	background-color: ghostwhite;
+color: darkcyan;
+padding: 10px;
+border: solid 3px #0F7391;
+margin: 5px 50px 5px 200px;
+width: 343px;
+float: left;
+height: 700px;
+
+    }
+
+h1 {
+	background-color: #15AAD7;
+color: white;
+padding: 10px;
+border: solid 3px #0F7391;
+margin: 10px;
+width: 100px;
+text-align: center;
+    }
+
+h4 {
+	background-color: #15AAD7;
+color: white;
+padding: 10px;
+border: solid 3px #0F7391;
+margin: 10px;
+font-family: Bradley Hand ITC;
+font-size: 20px;
+text-align: center;
+clear: both;
+
+    }
+    p2 {
+	background-color: ghostwhite;
+color: darkcyan;
+padding: 10px;
+border: solid 3px #0F7391;
+margin: 5px 150px 5px 150px;
+width: 343px;
+float: left;
+height: 700px;
+
+    }
+p3 {
+	background-color: ghostwhite;
+color: darkcyan;
+padding: 10px;
+border: solid 3px #0F7391;
+margin: 5px 200px 5px 5px;
+width: 343px;
+float: right;
+height: 700px;
+
+    }
+body{
+	background-color: lightcyan;
+}
